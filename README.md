@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel='stylesheet' href='style.css'/>
+<link rel='stylesheet' href='main.css'/>
 	<script src='script.js'></script>
         <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -30,6 +30,6 @@
                 <h1>Ben's stats</h1>
                     <p>In 2015 he had 3,938 yards as a passing stats </p> 
             </div>
-            <img src="http://s1.thingpic.com/images/5a/5ZfSjL7fUwCCDG4Er4LMDpRz.jpeg"/>
+            <img src="http://www.psfwallpapers.com/resources/wallpapers/ben-roethlisberger-flames.jpg" alt="Smiley face" height="700" width="1200">
 </body>
 </html>
