@@ -28,7 +28,7 @@
             <p></p>
             <div class="col-md-3">
                 <h1>Ben's stats</h1>
-                    <p>In 2015 he had 3,938 yards as a passing stats </p> 
+                    <p>In 2015 he had 3,938 yards as a passing stats, he as done really good and stats are there to prove that every time he as played he has gotten better stats wise. </p> 
             </div>
             <img src="http://www.psfwallpapers.com/resources/wallpapers/ben-roethlisberger-flames.jpg" alt="Smiley face" height="700" width="1200">
 </body>
